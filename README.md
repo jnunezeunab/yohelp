@@ -1,1 +1,2 @@
-# yohelp
+# Este proyecto se denomina Yo Help Cliente, y se encuentra en proceso de confección a través de los lineamientos entregados por el profesor de la cátedra de Proyecto de Título. La confección del Proyecto Yo Help Cliente mantiene un faseamiento, del cual, de acuerdo a las instrucciones, se le irán incorporando mejoras tanto en su estructura como en su funcionalidad.
+# Este proyecto, pretende ser una ayuda a la ciudadanía en lo que respecta a la elección de rutas definidas para transitar en las distintas ciudadees y colalidades, con la finalidad de evitar ser víctimas de hechos ilícitos.
